@@ -1,7 +1,7 @@
 <htm>
 <head>
 <body>
-<form action="outputpr.php" method="Post">
+<form action="output.php" method="Post">
 <center>
 <pre>
 <img src="kai.jpg">
